@@ -1,3 +1,5 @@
+<h3 align="center">UrAvgCode</h3>
+
 - 👋 Hi, I’m @UrAvgCode
 - 🌱 I’m currently learning Java and C
 
