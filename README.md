@@ -14,4 +14,5 @@
 #
 
 <h3> 📊 Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uravgcode&show_icons=true&locale=en&layout=compact&theme=dark" alt="uravgcode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=uravgcode&show_icons=true&theme=dark" alt="uravgcode stats" height="180" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uravgcode&show_icons=true&locale=en&layout=compact&theme=dark" alt="uravgcode languages" height="180" /></p>
